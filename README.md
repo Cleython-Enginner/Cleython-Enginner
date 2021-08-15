@@ -10,11 +10,7 @@
 ### Skills & Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleython-Enginner&layout=compact)](https://github.com/Cleython-Enginner/github-readme-stats)
-
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cleython-Enginner&show_icons=true&theme=radical)
-
 
 <!--
 **Cleython-Enginner/Cleython-Enginner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
