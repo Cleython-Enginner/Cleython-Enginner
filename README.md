@@ -5,7 +5,7 @@
 ##### :technologist: Tecnólogo em Sistemas para Internet :man_student:
 ##### :desktop_computer::closed_lock_with_key: Especialista em Segurança da Informação :man_student:
 ##### :computer: :chart_with_upwards_trend: Especialista em Engenharia de Software :man_student:
-##### :desktop_computer: :computer: :hhbooks: Graduando em Ciências da Computação :hourglass_flowing_sand: : student:
+##### :desktop_computer:💻📚 Graduando em Ciências da Computação 🧑‍🎓
 
 ####  Contatos
 
