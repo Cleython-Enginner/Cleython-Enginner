@@ -7,6 +7,15 @@
 ##### :computer: :chart_with_upwards_trend: Especialista em Engenharia de Software :man_student:
 ##### :desktop_computer: :computer: :books: Graduando em Ciências da Computação :hourglass_flowing_sand: :student:
 
+##### Meus Projetos
+
+⚪  Criado
+🟡  Criado e alterado
+🟢  Em andamento
+🟣  Modificado
+🔵  Finalizado
+
+
 ### Skills & Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleython-Enginner&layout=compact)](https://github.com/Cleython-Enginner/github-readme-stats)
