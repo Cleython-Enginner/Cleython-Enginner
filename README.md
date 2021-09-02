@@ -1,7 +1,7 @@
 ### Sejam Bem Vindos!
 
 ##### Me chamo :point_right: Cleython Venceslau :adult:
-##### Sou do Nordeste :beach_umbrella: :surfing_man: :swimming_man: :brazil:
+##### Sou Psicólogo em transição de carreira  🧑‍⚕️👉🧑‍💻
 ##### :technologist: Tecnólogo em Sistemas para Internet :man_student:
 ##### :desktop_computer::closed_lock_with_key: Especialista em Segurança da Informação :man_student:
 ##### :computer: :chart_with_upwards_trend: Especialista em Engenharia de Software :man_student:
